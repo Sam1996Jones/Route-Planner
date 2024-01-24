@@ -1,0 +1,10 @@
+London 100 200
+Moscow 300 -100
+Delhi 400 500
+Bejing 350 250
+Singapore -200 -400
+Tokyo 50 300
+Sydney 500 100
+Rio 200 200
+Mexico -100 -300
+LA 50 100
